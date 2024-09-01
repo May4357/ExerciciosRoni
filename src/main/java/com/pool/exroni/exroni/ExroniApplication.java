@@ -9,7 +9,7 @@ public class ExroniApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ExroniApplication.class, args);
 		
-		Exercicio2.resolucao();// é como se fosse a funcao ()
+		Exercicio10. resolucao ();// é como se fosse a funcao ()
 
 
 	}
